@@ -1,0 +1,22 @@
+Loop your world (100 Marks)
+For this challenge, you need to take an integer value as input from stdin, calculate its factorial and print the result to the stdout.
+
+Input Format
+A single integer value to be taken as input from stdin and stored it in a variable of your choice. 
+
+Constraints
+1 < = n < = 15
+
+Output Format
+Print the value which you will get after calculating the factorial of the input. 
+
+Sample TestCase 1
+Input
+5
+Output
+120
+Explanation
+For a number, we will calculate its factorial by multiplying the number with the numbers which comes between 1(inclusive) and the 
+number itself.
+For input as 5, its factorial will be 1*2*3*4*5 = 120.
+factorial of n (n!) = 1*2*3*4....n
