@@ -1,3 +1,5 @@
+URL: https://www.techgig.com/practice/question/day-5/R3Q0SmJvYjlVWlBvcXZucW9xNy9oRXQ2cEVFOWV5S0NsTkQ5cU1yKzhGeWxqT1h1RmFGVDJVT1ZYajBCQTlwWg==/1
+
 Loop your world (100 Marks)
 For this challenge, you need to take an integer value as input from stdin, calculate its factorial and print the result to the stdout.
 
