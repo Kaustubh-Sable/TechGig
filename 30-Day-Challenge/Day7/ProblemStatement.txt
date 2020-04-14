@@ -1,0 +1,23 @@
+URL: https://www.techgig.com/practice/question/day-7/SzVNZ3lLOTNHd0E2TlFHQkJkSWZFaEk0TWYvYVJpZ2VZZDcyeUNVbkZtdm9IYjFHZHhBVTVPNVM4VlRPaHF4cg==/1
+
+Count special numbers between boundaries (100 Marks)
+For this challenge, you are given a range and you need to find how many prime numbers lying between the given range.
+
+Input Format
+For this challenge, you need to take two integers on separate lines. These numbers defines the range. 
+
+Constraints
+1 < = ( a , b ) < = 100000
+
+Output Format
+output will be the single number which tells how many prime numbers are there between given range. 
+
+Sample TestCase 1
+Input
+1
+20
+Output
+8
+Explanation
+There are 8 prime numbers which lies in the given range.
+They are 2, 3, 5, 7, 11, 13, 17, 19
