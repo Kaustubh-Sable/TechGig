@@ -1,0 +1,23 @@
+URL: https://www.techgig.com/practice/question/day-16/UHlXdndzdXhHcERWOHZnUEhaUkFZLzRuYWVMbmZIUGNGdFJNbmpKY0xVVUgrY2ZXby9tMWRLRTJGOE1QRHZBVg==/1
+
+GCD of two numbers (100 Marks)
+For this challenge, you need to take input of two numbers , calculate their greatest common divisor (GCD) and print it to the stdout.
+
+Input Format
+You need to take two integers as an input which are separated by a single space. 
+
+Constraints
+1 < (a,b) < 10^5
+
+Output Format
+Print the single integer result to the stdout. 
+
+Sample TestCase 1
+Input
+81 81
+Output
+81
+Explanation
+81 = 3*3*3*3
+81 = 3*3*3*3
+so common to both is 3*3*3*3 which is 81.
