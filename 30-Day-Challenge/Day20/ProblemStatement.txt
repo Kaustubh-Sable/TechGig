@@ -1,0 +1,22 @@
+URL: https://www.techgig.com/practice/question/day-20/MnhJRGNaUjVNcVlZMXpEemw4Y3U5NHU0VTE1RGZhVE81OXZWbTA3Q3g5Qk5xU0c5SDNVOU1yMWMrUW81cjE3dw==/1
+
+Square making (100 Marks)
+You need to print the following pattern
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+Input Format
+NA
+
+Constraints
+NA
+
+Output Format
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
