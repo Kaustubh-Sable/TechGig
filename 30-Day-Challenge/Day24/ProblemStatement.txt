@@ -1,0 +1,23 @@
+URL: https://www.techgig.com/practice/question/day-24/R3VIOUprODV2eEhmZEF3R3J6RU12TUdsQmVXNHN0enhycFBNSUNJNnp1MTdTNWRvT3k3WGNMeVlwc0FVSmYySA==/1
+
+Play With Average (100 Marks)
+For this challenge, you need to take number of elements as input on one line and array elements as an input on another line. You need to find the average of even numbers, then the average of odd numbers and add them (round the averages to the nearest integers).
+
+Input Format
+In this challenge, you will take number of elements as input on one line and array elements which are space separated as input on another line. 
+
+Constraints
+1 < N < 10^5
+1 < A[i] < 10^5
+
+Output Format
+You will print the value after addition of the two averages to the stdout. 
+
+Sample TestCase 1
+Input
+6
+11 22 33 44 55 66
+Output
+77
+Explanation
+You will print the value after addition of the two averages to the stdout.
